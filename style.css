@@ -1,0 +1,116 @@
+*{
+	margin:0;
+	padding: 0;
+	background:#445676;
+}
+.header{
+	height:100vh;
+}
+.navbar-style{
+	box-shadow: 0 5px 10px #efefef;
+}
+.LOGO{
+	height: 48px;
+	padding: 0px 10px;
+	width: 200px;
+}
+.icon-bar{
+	background: darkorange;
+}
+li a{
+	color: #333;
+}
+.big-text{
+	font-size: 19px;
+	margin: 20px 0;
+	color: darkorange;
+	float: right;
+}
+a.btn{
+	margin: 30px 10px;
+	width: 150px;
+	padding: 10px;
+	border-radius: 20px;
+}
+a.btn-first{
+background-color: green;
+color: #fff;
+}
+a.btn-second{
+	background-color:transparent;
+	border: 5px solid orange;
+	color: #333;
+}
+a.btn-first{
+	background-color: darkorange;
+	color:12900;
+}
+a.btn-second{
+	background:transparent;
+	border: 1px solid #f35252;
+	color: 321334;
+}
+a.btn:hover{
+	background: brown;
+	border:21px;
+	color: blue;
+	box-shadow: 5px 5px 10px #999;
+	transition: 0.3s;
+}
+
+
+
+.img-responsive{
+    float: right;
+	width: 200PX;
+	height: 200PX;
+	border-radius: 100px;
+
+
+}
+.banner-info .banner-image{
+margin: 30px 0;
+}
+
+	
+.par .par1 .par2{
+	width:100px;
+    height:120px;
+    background: brown;
+    color: pink;
+}
+
+/*.Em{
+width:10px;
+height: 0px;
+font-size:14px;
+}*/
+.footer {
+margin: 20px;
+padding: 10px;
+
+}
+//*...*||
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+body{
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	background: #eff4f5;
+}
+.container{
+	box-shadow: 10px 10px 15px  rgb(192,183,183), -10px -10px  15px white;
+	width: 400px;
+	height: 400px;
+
+}
+.container  .msg .heading{
+	color: #c559ea;
+	font-size: 1.5em;
+}
